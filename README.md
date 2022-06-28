@@ -1,6 +1,6 @@
 # SWE Flying Start
 
-Welcome to Software Engineering Level 4!
+Welcome to Software Engineering Level 4! Foo Bar!
 
 We want to get to know more about you, and what better way than building a webpage to introduce yourself?!
 
